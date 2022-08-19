@@ -6,7 +6,7 @@
 ![This is an image](./project.jpg)
 
 ### As a result of this project, I learn the following:
-[LIVE-LINK](https://projectproductpage.netlify.app/)
+[LIVE-LINK](https://projectproducthomepage.netlify.app/)
 
 - [x] learned more about Font Awesome/icon
 - [x] To align elements horizontally, I used display flex
