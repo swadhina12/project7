@@ -126,11 +126,9 @@ nav img{
 .dots{
     display: flex;
     justify-content: space-between;
-    
     width: 30%;
     margin-bottom: 2rem;
     margin-left: 1.9rem;
-
 }
 
 .dot{
@@ -146,6 +144,7 @@ nav img{
 .right-section button{
     margin-left: 3.5rem;
 }
+/**responsive section**/
 @media only screen and (max-width: 800px) {
     .left-section h3 {
         font-size: 1.5rem;
